@@ -1,0 +1,49 @@
+body {
+  font-family: 'Calibri';
+}
+h1 {
+  text-align: center; 
+  
+}
+
+nav ul {
+  list-style-type: none; 
+  padding: 0;
+}
+
+nav ul li {
+  display: inline; 
+  margin-right: 10px; 
+}
+
+
+header {
+  background-color: #D3D3D3; 
+  border: 5px solid black; 
+  height: 100px; 
+}
+
+nav {
+  background-color: #FFFF6C; 
+  border: 5px solid #e7c157; 
+  height: 150px; 
+}
+
+main {
+  background-color: white; 
+  border: 5px solid #df6c20; 
+  height: 400px; 
+}
+
+aside {
+  background-color: #D2D2D2; 
+  border: 5px solid #8db243; 
+  height: 50px; 
+}
+
+footer {
+  background-color: #81AAEF; 
+  border: 5px solid #C8C8C8; 
+  height: 50px; 
+}
+
